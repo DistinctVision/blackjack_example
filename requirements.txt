@@ -1,0 +1,6 @@
+gymnasium
+numpy
+kaleido
+plotly
+imageio[ffmpeg]
+opencv-python
